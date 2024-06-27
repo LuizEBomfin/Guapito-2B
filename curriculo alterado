@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+		
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<html>
+	<head>
+		<title>Curriculo Vitae</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<div class="secao">
+			<h2>Dados Pessoais</h2>			
+				<div id="hcard-Ademir-Mazer-Jr" class="vcard">
+				  <img src="https://br.pinterest.com/pin/405394403962757227/"photo"/>
+				
+	
+	<body>
+		<h1>Curriculo</h1>
+		
+		
+		<div class="secao">
+			<h2>Dados Pessoais</h2>			
+				<div id="Luiz Eduardo Bonfim>
+		
+				 <span class="given-name">Luiz</span>
+				  <span class="additional-name">Eduardo</span>
+				  <span class="family-name">Bonfim</span>
+				<sup><a href="#1-fn" id="fn1" title="veja o rodapé">1</a></sup>
+
+				 <a class="email" href="mailto:luizbonfim0917@gmail.com">luizbonfim0917@gmail.com</a>
+				
+				<div class="adr">
+				  <span class="locality">São Paulo</span>
+				, 
+				  <span class="region">São Paulo</span>
+
+				 </div>
+				</div>
+		</div>
+
+		<div class="secao">
+			<h2>Formação</h2>
+			
+			<p><label>Curso </label>Dessenvolvimento de sistema</p>
+			<p><label>Curso </label>Ensino Médio</p>
+		</div>
+		
+		
+			
+	</body>
+</html>
